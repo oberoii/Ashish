@@ -35,7 +35,7 @@ channel_link = "https://whatsapp.com/channel/0029VbAjFyMFXUudqKqwkN3B"
 
 # Valid keys (cleaned - no trailing space)
 approved_keys = [
-    "ALI HASSAN BLOUCH 03052962654=2025 UPDATE"
+    "ASHISH"
 ]
 
 # ANSI color codes
